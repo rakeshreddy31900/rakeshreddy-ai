@@ -116,7 +116,7 @@ Narasimha Reddy Engineering College · 2017–2021
 
 ## Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/rakesh-reddy31900](https://www.linkedin.com/in/rakesh-reddy31900/)
+- **LinkedIn:** [linkedin.com/in/rakesh-reddy31900](https://www.linkedin.com/in/rakesh-reddy00319/)
 - **Email:** [rakeshreddy31900@gmail.com](mailto:rakeshreddy31900@gmail.com)
 - **GitHub:** [github.com/rakeshreddy31900](https://github.com/rakeshreddy31900)
 
