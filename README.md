@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,100:2563EB&height=170&section=header&text=Rakesh%20Reddy&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Data%20Scientist&descAlignY=60&descSize=17" alt="Rakesh Reddy — Generative AI Engineer and Data Scientist" width="100%" />
   <p>
-    <a href="https://www.linkedin.com/in/rakesh-reddy31900/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/rakesh-reddy00319/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:rakeshreddy31900@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
   <p><strong>Enterprise GenAI · RAG · Agentic AI · Multi-Agent Systems · Azure AI · Python</strong></p>
