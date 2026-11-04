@@ -111,7 +111,7 @@ Narasimha Reddy Engineering College · 2017–2021
 
 ## Certifications & Learning
 
-- Microsoft Certified: Azure AI Engineer Associate — earned October 2025; listed validity ended October 2026. Current renewal status is not claimed here.
+- Microsoft Certified: Azure AI Engineer Associate — earned October 2025. Current renewal status is not claimed here.
 - Elevate Wings Program — Python
 
 ## Let's Connect
