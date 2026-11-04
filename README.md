@@ -11,7 +11,7 @@
 
 ## About
 
-Generative AI Engineer and Data Scientist with **4+ years of experience** building machine learning and LLM-powered applications for enterprise use cases. My work focuses on turning business problems into practical AI solutions—from document intelligence and retrieval-augmented generation to agentic workflows and production-oriented ML services.
+Generative AI Engineer and Data Scientist with **5 years of experience** building machine learning and LLM-powered applications for enterprise use cases. My work focuses on turning business problems into practical AI solutions—from document intelligence and retrieval-augmented generation to agentic workflows and production-oriented ML services.
 
 Currently working as a **Generative AI Developer at Accenture**. Previously worked as a **Data Scientist at Tata Consultancy Services (TCS)**.
 
